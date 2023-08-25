@@ -1,0 +1,11 @@
+.welcome-page {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  .welcome-content {
+    text-align: center;
+    color: white;
+    padding-top: 150px;
+  }

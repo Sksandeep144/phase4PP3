@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "abc1",
+      "password": "abc1",
+      "email": "abc@email.com",
+      "city": "Hyderabad"
+    },
+    {
+      "id": 2,
+      "name": "abc2",
+      "password": "abc3",
+      "email": "abc@email.com",
+      "city": "Delhi"
+    },
+    {
+      "id": 3,
+      "name": "san",
+      "password": "abc3",
+      "email": "abc@email.com",
+      "city": "Hydrebad"
+    },
+    {
+      "id": 4,
+      "name": "abc4",
+      "password": "abc4",
+      "email": "abc@email.com",
+      "city": "Chennai"
+    },
+    {
+      "name": "san",
+      "password": "san",
+      "email": "sksandeep144@gmail.com",
+      "city": "KOZHIKODE",
+      "id": 5
+    },
+    {
+      "name": "mallu",
+      "password": "mallu",
+      "email": "mallu@gmail.com",
+      "city": "city",
+      "id": 6
+    },
+    {
+      "name": "Sandeep",
+      "password": "Sandeep",
+      "email": "sksandeep144@gmail.com",
+      "city": "Calicut",
+      "id": 7
+    }
+  ]
+}
